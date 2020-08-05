@@ -1,3 +1,5 @@
-# jwcn97.github.io
+# Personal Website
 
-Personal Website
+- Resume
+- Working Experience
+- Projects!
